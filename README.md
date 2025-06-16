@@ -1,4 +1,4 @@
-🐾 Feed the Cat - Game Jam Project
+<h1>🐾 Feed the Cat - Game Jam Project</h1>
 Feed the Cat is a short, quirky game created for the Game Parade Jam. Your mission? Keep your daughter's beloved cat well-fed and happy — but be careful! Give him the wrong food or ignore his needs, and he might just tear the whole flat apart!
 
 🕹️ Gameplay
